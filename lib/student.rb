@@ -45,4 +45,5 @@ class Student
     self.new(name, grade)
     self.save
   end
+  
 end
